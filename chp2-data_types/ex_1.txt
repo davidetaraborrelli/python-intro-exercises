@@ -1,0 +1,10 @@
+1. strings, str
+2. boolean, bool
+3. tuples, tuple
+4. floats, float
+5. lists, list
+6. integers, int
+7. ranges, range
+8. sets, set
+9. NoneType, NoneType
+10. dictioaries, dict
